@@ -2,3 +2,5 @@ node_modules
 .eslintcache
 .talismanrc
 .idea
+yarn.lock
+#ishika
